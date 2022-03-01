@@ -1,5 +1,3 @@
 Course files for 'Statistics and Probability for Computer Science'. 
 
-Course TBA. 
-
-http://recluze.net
+Full playlist of videos availble here: https://www.youtube.com/playlist?list=PLnd7R4Mcw3rJDOxrwmwyK-EdJl8Tk431H 
